@@ -1,9 +1,0 @@
-{
-  "cruscotto": "2026.10.06.1",
-  "app": "2026.09.30.1",
-  "note": [
-    "Scheda mezzo: per ogni mezzo e il suo autista costo al quintale, saturazione, uscite, confronto con la filiale e scadenze, con PDF per gli incontri con i vettori",
-    "Piano giri: ogni autista guida sempre il suo mezzo; il Jolly parte con il suo autista anche quando sostituisce il mezzo di zona",
-    "Controllo completo: corretti una sessantina di errori nei casi limite (import con lettere accentate, costo al quintale, backup e ripristino, piano giri, spunta)"
-  ]
-}
